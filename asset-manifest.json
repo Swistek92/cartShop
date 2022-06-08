@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cartShop/static/css/main.7d0abc92.css",
+    "main.js": "/cartShop/static/js/main.60c25a62.js",
+    "static/media/meals.jpg": "/cartShop/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/cartShop/index.html",
+    "main.7d0abc92.css.map": "/cartShop/static/css/main.7d0abc92.css.map",
+    "main.60c25a62.js.map": "/cartShop/static/js/main.60c25a62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d0abc92.css",
+    "static/js/main.60c25a62.js"
+  ]
+}
