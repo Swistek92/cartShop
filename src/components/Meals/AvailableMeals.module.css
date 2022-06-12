@@ -4,6 +4,28 @@
   margin: 2rem auto;
   animation: meals-appear 1s ease-out forwards;
 }
+.loading {
+  color: white;
+  background-color: grey;
+  min-width: 100%;
+  font-weight: 700;
+  text-align: center;
+  min-height: 100%;
+  animation: meals-appear 1s ease-out forwards;
+  font-size: 200%;
+}
+
+.error {
+  font-size: 200%;
+  color: red;
+  margin: 2rem auto;
+  text-align: center;
+  font-weight: 700;
+  background-color: grey;
+  min-width: 100%;
+  min-height: 100%;
+  animation: meals-appear 1s ease-out forwards;
+}
 
 .meals ul {
   list-style: none;
